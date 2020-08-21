@@ -22,4 +22,4 @@ Necesita tener Netbeans 8.2 instalado: https://netbeans.org/downloads/8.2/rc/
 * **Henry Alejandro Martínez Guerra** - *Colaborador* - (henryalejandromar@gmail.com)
 * **Steven Benjamin Diaz Flores** - *Colaborador* - (stevenbdf@gmail.com)
 * **Christian Alexander Hernandez Funes** - *Colaborador* - (HF171856@alumno.udb.edu.sv)
-* **Alex Zetino** - *Colaborador* - (#fulanito-de-tal)
+* **José Alexander Sermeño Zetino** - *Colaborador* - (alexzetino_s77@hotmail.com)
